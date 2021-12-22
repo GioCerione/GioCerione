@@ -22,6 +22,9 @@ const Languages = {
 const Projects = {
     Mitsy: {
         function: "Developer for Mitsy, a Discord bot.",
+    },
+    4Elementos: {
+        function: "Developer for 4Elementos"
     }
 }
 
