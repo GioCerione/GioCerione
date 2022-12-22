@@ -1,5 +1,5 @@
 <h2>Hello, World!</h2>
-<p>My name is Giovanne, a brazilian that lives in Argentina to study! I'm one of the founders of Ordo Aureus, one of the biggest brazilian TTRPG communities. I am currently learning Python, React and Jest!</p>
+<p>My name is Giovanne, a Brazilian that lives in Argentina to study medicine on university! I'm one of the founders of Ordo Aureus, one of the biggest TTRPG communities in Brazil. I am currently learning Python, React and Jest!</p>
 
 ```javascript
 const Gio = {
