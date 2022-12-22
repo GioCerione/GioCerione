@@ -1,5 +1,5 @@
 <h2>Hello, World!</h2>
-<p>My name is Giovanne, I am a pharmacy student at <a href="https://www.anhanguera.com/">Anhanguera Educacional</a> that loves to code, I'm currently working on Mitsy, a utility-focused Discord bot. I am also learning Python, React and Jest!</p>
+<p>My name is Giovanne, a brazilian that lives in Argentina to study! I'm one of the founders of Ordo Aureus, one of the biggest brazilian TTRPG communities. I am currently learning Python, React and Jest!</p>
 
 ```javascript
 const Gio = {
@@ -14,17 +14,24 @@ const Gio = {
 }
 
 const Languages = {
-    fluent: "Portuguese",
-    advanced: "English",
-    learning: "Spanish",
+    fluent: "Portuguese, English",
+    advanced: "Spanish"
 }
 
-const Projects = {
-    Mitsy: {
-        function: "Developer for Mitsy, a Discord bot.",
-    },
+const currentlyWorkingProjects = {
+    OrdoAureus: {
+        function: "Founder & Developer",
+        since: "08/22"
+    }
+}
+
+const projectsWorkedBefore = { 
+    // I do NOT work in any of the projects listed below anymore.
     4Elementos: {
-        function: "Developer for 4Elementos"
+        function: "Founder & Developer",
+    },
+    Mitsy: {
+        function: "Developer",
     }
 }
 
